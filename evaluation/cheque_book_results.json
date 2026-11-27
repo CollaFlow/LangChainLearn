@@ -1,0 +1,112 @@
+[
+  {
+    "strategy": "recursive",
+    "user_input": "How can I apply for a cheque book at a ZX Bank branch?",
+    "reference": "Visit a ZX Bank branch, fill out the Cheque Book Request Form, submit it with valid ID if required, and collect the acknowledgment receipt with the expected dispatch date.",
+    "retrieved_contexts": [
+      "# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**",
+      "---\n\nFor more assistance, visit [www.zxbank.asia](https://www.zxbank.asia) or contact your nearest ZX Bank branch.",
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request."
+    ],
+    "response": "Based on the provided materials, I don’t know how to apply for a cheque book at a ZX Bank branch.\n\nThe materials only provide steps for applying via the **ZX Bank Mobile App**, and mention that for more assistance you can visit **www.zxbank.asia** or contact your nearest ZX Bank branch. They do not give a branch application procedure."
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "How can I apply for a cheque book at a ZX Bank branch?",
+    "reference": "Visit a ZX Bank branch, fill out the Cheque Book Request Form, submit it with valid ID if required, and collect the acknowledgment receipt with the expected dispatch date.",
+    "retrieved_contexts": [
+      "[How to Apply for a Cheque Book at ZX Bank > 3. **At Branch**]\n\n1. Visit your nearest **ZX Bank branch**.\n2. Fill out the **Cheque Book Request Form** at the counter.\n3. Submit it to the bank officer along with valid ID, if required.\n4. Collect acknowledgment receipt with expected dispatch date.",
+      "[How to Apply for a Cheque Book at ZX Bank > 5. **ZX Bank Customer Care**]\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number.",
+      "[How to Apply for a Cheque Book at ZX Bank > 1. **Via ZX Bank Mobile App**]\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request."
+    ],
+    "response": "To apply for a cheque book at a ZX Bank branch:\n\n1. Visit your nearest **ZX Bank branch**.\n2. Fill out the **Cheque Book Request Form** at the counter.\n3. Submit it to the bank officer along with valid ID, **if required**.\n4. Collect the acknowledgment receipt with the expected dispatch date."
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "What steps should I follow to apply for a cheque book through NetBanking?",
+    "reference": "Log in to ZX Bank NetBanking, go to Services > Cheque Book Request, select your account and number of leaves, verify your address, submit the request, and track its status under Request History.",
+    "retrieved_contexts": [
+      "# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**",
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "---\n\n## 2. **Through NetBanking**\n\n1. **Log in** to [ZX Bank NetBanking](https://www.zxbank.asia).\n2. Go to **Services > Cheque Book Request**.\n3. Select your account and number of leaves required.\n4. Verify your address and submit the request.\n5. Track status online under **Request History**.\n\n---\n\n## 3. **At Branch**"
+    ],
+    "response": "To apply for a cheque book through NetBanking, follow these steps:\n\n1. Log in to [ZX Bank NetBanking](https://www.zxbank.asia).\n2. Go to **Services > Cheque Book Request**.\n3. Select your account and the number of leaves required.\n4. Verify your address and submit the request.\n5. Track the status online under **Request History**."
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "What steps should I follow to apply for a cheque book through NetBanking?",
+    "reference": "Log in to ZX Bank NetBanking, go to Services > Cheque Book Request, select your account and number of leaves, verify your address, submit the request, and track its status under Request History.",
+    "retrieved_contexts": [
+      "[How to Apply for a Cheque Book at ZX Bank > 2. **Through NetBanking**]\n\n1. **Log in** to [ZX Bank NetBanking](https://www.zxbank.asia).\n2. Go to **Services > Cheque Book Request**.\n3. Select your account and number of leaves required.\n4. Verify your address and submit the request.\n5. Track status online under **Request History**.",
+      "[How to Apply for a Cheque Book at ZX Bank]\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.",
+      "[How to Apply for a Cheque Book at ZX Bank > 1. **Via ZX Bank Mobile App**]\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request."
+    ],
+    "response": "According to the provided information, follow these steps to apply for a cheque book through NetBanking:\n\n1. Log in to [ZX Bank NetBanking](https://www.zxbank.asia).\n2. Go to **Services > Cheque Book Request**.\n3. Select your account and the number of leaves required.\n4. Verify your address and submit the request.\n5. Track the status online under **Request History**."
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "How do I apply for a cheque book via the ZX Bank Mobile App?",
+    "reference": "Open the ZX Bank Asia app and log in using credentials or biometric authentication. Go to Services or Request Services, tap Cheque Book Request, select the account, confirm the delivery details, review the request, and submit it. You will receive a confirmation SMS or email with the estimated delivery time.",
+    "retrieved_contexts": [
+      "# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**",
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "---\n\n## 5. **ZX Bank Customer Care**\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number.\n\n---\n\n### ℹ️ **Frequently Asked Questions**"
+    ],
+    "response": "To apply for a cheque book via the ZX Bank Mobile App:\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter the delivery address if it is different from your registered address.\n6. **Submit:** Review and submit your request."
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "What are the different ways to apply for a cheque book at ZX Bank?",
+    "reference": "ZX Bank offers five application methods: the ZX Bank Mobile App, NetBanking, a bank branch, a ZX Bank ATM, and Customer Care. The Mobile App and NetBanking allow online requests; branch requests require a form and valid ID if requested; ATM requests are made through the Cheque Book Request service after card and PIN authentication; Customer Care requests require calling the helpline, verifying details, and noting the reference number.",
+    "retrieved_contexts": [
+      "# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**",
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "---\n\n## 5. **ZX Bank Customer Care**\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number.\n\n---\n\n### ℹ️ **Frequently Asked Questions**"
+    ],
+    "response": "Based on the provided material, the explicitly mentioned ways to apply for a cheque book at ZX Bank are:\n\n1. **Via the ZX Bank Mobile App** — Open the **ZX Bank Asia** app, go to **Services** or **Request Services**, select **Cheque Book Request**, choose the account, confirm details, and submit.\n2. **Via ZX Bank Customer Care** — Call the 24x7 helpline **1800-XXX-XXXX**, verify your details, place the cheque book request, and note down the reference number.\n\nThe material says there are “multiple convenient channels” and includes a section numbered “5,” but the other channel details are not provided. I don’t know what the remaining ways are from the provided material."
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "Why might someone prefer using the ZX Bank mobile app to request a cheque book?",
+    "reference": "The ZX Bank Mobile App is convenient because users can request a cheque book from anywhere without visiting a branch. It provides secure login with credentials or biometric authentication, confirmation with an estimated delivery time, and convenient request-status tracking within the app.",
+    "retrieved_contexts": [
+      "# How to Apply for a Cheque Book at ZX Bank\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.\n\n---\n\n## 1. **Via ZX Bank Mobile App**",
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "---\n\n## 5. **ZX Bank Customer Care**\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number.\n\n---\n\n### ℹ️ **Frequently Asked Questions**"
+    ],
+    "response": "Based on the provided snippets, the information does **not explicitly state** why someone would prefer the mobile app over other channels, and it does not compare the channels.\n\nHowever, someone might prefer it because the app process is presented as simple and convenient: they can log in with credentials or biometric authentication, go to **Services** or **Request Services**, select **Cheque Book Request**, choose the account, enter a different delivery address if needed, review, and submit the request—all through the app.\n\nI don’t know of any other advantages from the provided information."
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "How do I apply for a cheque book via the ZX Bank Mobile App?",
+    "reference": "Open the ZX Bank Asia app and log in using credentials or biometric authentication. Go to Services or Request Services, tap Cheque Book Request, select the account, confirm the delivery details, review the request, and submit it. You will receive a confirmation SMS or email with the estimated delivery time.",
+    "retrieved_contexts": [
+      "[How to Apply for a Cheque Book at ZX Bank > 1. **Via ZX Bank Mobile App**]\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "[How to Apply for a Cheque Book at ZX Bank > 4. **Via ZX Bank ATM**]\n\n1. Insert your ZX Bank debit card and enter your PIN.\n2. Go to **Services > Cheque Book Request**.\n3. Select account and number of leaves.\n4. Confirm the request to complete the process.",
+      "[How to Apply for a Cheque Book at ZX Bank > 5. **ZX Bank Customer Care**]\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number."
+    ],
+    "response": "To apply for a cheque book via the ZX Bank Mobile App:\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter the delivery address if it is different from your registered address.\n6. **Submit:** Review and submit your request."
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "What are the different ways to apply for a cheque book at ZX Bank?",
+    "reference": "ZX Bank offers five application methods: the ZX Bank Mobile App, NetBanking, a bank branch, a ZX Bank ATM, and Customer Care. The Mobile App and NetBanking allow online requests; branch requests require a form and valid ID if requested; ATM requests are made through the Cheque Book Request service after card and PIN authentication; Customer Care requests require calling the helpline, verifying details, and noting the reference number.",
+    "retrieved_contexts": [
+      "[How to Apply for a Cheque Book at ZX Bank]\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.",
+      "[How to Apply for a Cheque Book at ZX Bank > 3. **At Branch**]\n\n1. Visit your nearest **ZX Bank branch**.\n2. Fill out the **Cheque Book Request Form** at the counter.\n3. Submit it to the bank officer along with valid ID, if required.\n4. Collect acknowledgment receipt with expected dispatch date.",
+      "[How to Apply for a Cheque Book at ZX Bank > 5. **ZX Bank Customer Care**]\n\n- Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India)\n- Verify your details with the customer care executive.\n- Place your cheque book request and note down the reference number."
+    ],
+    "response": "According to the provided material, the explicitly mentioned ways to apply for a cheque book at ZX Bank are:\n\n1. **At a ZX Bank branch**\n   - Visit your nearest ZX Bank branch.\n   - Fill out the **Cheque Book Request Form** at the counter.\n   - Submit it to the bank officer along with valid ID, if required.\n   - Collect the acknowledgment receipt with the expected dispatch date.\n\n2. **Through ZX Bank Customer Care**\n   - Call ZX Bank’s 24x7 helpline: **1800-XXX-XXXX** (toll-free in India).\n   - Verify your details with the customer care executive.\n   - Place your cheque book request and note down the reference number.\n\nThe material says there are “multiple convenient channels,” but the provided snippets do not list any other ways. I don’t know what the additional channels are from the given information."
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "Why might someone prefer using the ZX Bank mobile app to request a cheque book?",
+    "reference": "The ZX Bank Mobile App is convenient because users can request a cheque book from anywhere without visiting a branch. It provides secure login with credentials or biometric authentication, confirmation with an estimated delivery time, and convenient request-status tracking within the app.",
+    "retrieved_contexts": [
+      "[How to Apply for a Cheque Book at ZX Bank > 1. **Via ZX Bank Mobile App**]\n\n1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request.",
+      "[How to Apply for a Cheque Book at ZX Bank]\n\nApplying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels. Follow the steps below to request your new cheque book.",
+      "[How to Apply for a Cheque Book at ZX Bank > 4. **Via ZX Bank ATM**]\n\n1. Insert your ZX Bank debit card and enter your PIN.\n2. Go to **Services > Cheque Book Request**.\n3. Select account and number of leaves.\n4. Confirm the request to complete the process."
+    ],
+    "response": "The provided material does not explicitly say why someone would prefer the ZX Bank mobile app over other channels, so I don’t know the reason from the provided material.\n\nIt only states that the mobile app process allows the user to log in with credentials or biometric authentication, go to **Services** or **Request Services**, select **Cheque Book Request**, choose an account, enter a delivery address if different from the registered address, and review/submit the request. The material also says applying is simple and available through multiple convenient channels, but it gives no specific reason for preferring the mobile app."
+  }
+]

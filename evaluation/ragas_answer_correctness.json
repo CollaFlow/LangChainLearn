@@ -1,0 +1,52 @@
+[
+  {
+    "strategy": "recursive",
+    "user_input": "How can I apply for a cheque book at a ZX Bank branch?",
+    "answer_correctness": 0.17903652236179635
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "How can I apply for a cheque book at a ZX Bank branch?",
+    "answer_correctness": 0.9603691393548762
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "What steps should I follow to apply for a cheque book through NetBanking?",
+    "answer_correctness": 0.9550576807228858
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "What steps should I follow to apply for a cheque book through NetBanking?",
+    "answer_correctness": 0.9010175311594277
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "How do I apply for a cheque book via the ZX Bank Mobile App?",
+    "answer_correctness": 0.8286860074556042
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "What are the different ways to apply for a cheque book at ZX Bank?",
+    "answer_correctness": 0.5402767588688742
+  },
+  {
+    "strategy": "recursive",
+    "user_input": "Why might someone prefer using the ZX Bank mobile app to request a cheque book?",
+    "answer_correctness": 0.30498380538756087
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "How do I apply for a cheque book via the ZX Bank Mobile App?",
+    "answer_correctness": 0.8286860074556042
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "What are the different ways to apply for a cheque book at ZX Bank?",
+    "answer_correctness": 0.656514533021847
+  },
+  {
+    "strategy": "markdown",
+    "user_input": "Why might someone prefer using the ZX Bank mobile app to request a cheque book?",
+    "answer_correctness": 0.3266106019699842
+  }
+]

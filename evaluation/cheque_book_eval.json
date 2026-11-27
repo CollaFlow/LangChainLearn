@@ -1,0 +1,37 @@
+[
+  {
+    "user_input": "How can I apply for a cheque book at a ZX Bank branch?",
+    "reference": "Visit a ZX Bank branch, fill out the Cheque Book Request Form, submit it with valid ID if required, and collect the acknowledgment receipt with the expected dispatch date.",
+    "reference_contexts": [
+      "1. Visit your nearest **ZX Bank branch**.\n2. Fill out the **Cheque Book Request Form** at the counter.\n3. Submit it to the bank officer along with valid ID, if required.\n4. Collect acknowledgment receipt with expected dispatch date."
+    ]
+  },
+  {
+    "user_input": "What steps should I follow to apply for a cheque book through NetBanking?",
+    "reference": "Log in to ZX Bank NetBanking, go to Services > Cheque Book Request, select your account and number of leaves, verify your address, submit the request, and track its status under Request History.",
+    "reference_contexts": [
+      "1. **Log in** to [ZX Bank NetBanking](https://www.zxbank.asia).\n2. Go to **Services > Cheque Book Request**.\n3. Select your account and number of leaves required.\n4. Verify your address and submit the request.\n5. Track status online under **Request History**."
+    ]
+  },
+  {
+    "user_input": "How do I apply for a cheque book via the ZX Bank Mobile App?",
+    "reference": "Open the ZX Bank Asia app and log in using credentials or biometric authentication. Go to Services or Request Services, tap Cheque Book Request, select the account, confirm the delivery details, review the request, and submit it. You will receive a confirmation SMS or email with the estimated delivery time.",
+    "reference_contexts": [
+      "1. **Login:** Open the **ZX Bank Asia** app and log in using your credentials or biometric authentication.\n2. **Navigate:** Go to **Services** or **Request Services** on the home menu.\n3. **Select:** Tap on **Cheque Book Request**.\n4. **Choose Account:** Select the account for which you need the cheque book.\n5. **Confirm Details:** Enter delivery address (if different from registered address).\n6. **Submit:** Review and submit your request. You’ll receive a confirmation SMS/email with the estimated delivery time."
+    ]
+  },
+  {
+    "user_input": "What are the different ways to apply for a cheque book at ZX Bank?",
+    "reference": "ZX Bank offers five application methods: the ZX Bank Mobile App, NetBanking, a bank branch, a ZX Bank ATM, and Customer Care. The Mobile App and NetBanking allow online requests; branch requests require a form and valid ID if requested; ATM requests are made through the Cheque Book Request service after card and PIN authentication; Customer Care requests require calling the helpline, verifying details, and noting the reference number.",
+    "reference_contexts": [
+      "Applying for a cheque book from ZX Bank is simple and can be done through multiple convenient channels: Mobile App, NetBanking, At Branch, ZX Bank ATM, and Customer Care.\n1. **Mobile App:** Log in, navigate to Services, tap Cheque Book Request, select account, confirm details, and submit.\n2. **NetBanking:** Log in, go to Services > Cheque Book Request, select account, verify address, and submit.\n3. **At Branch:** Visit branch, fill out form, submit with ID, collect receipt.\n4. **ATM:** Insert card, enter PIN, go to Services, select account, confirm request.\n5. **Customer Care:** Call helpline, verify details, place request, note reference number."
+    ]
+  },
+  {
+    "user_input": "Why might someone prefer using the ZX Bank mobile app to request a cheque book?",
+    "reference": "The ZX Bank Mobile App is convenient because users can request a cheque book from anywhere without visiting a branch. It provides secure login with credentials or biometric authentication, confirmation with an estimated delivery time, and convenient request-status tracking within the app.",
+    "reference_contexts": [
+      "Using the ZX Bank mobile app offers several conveniences: it allows users to request a cheque book from anywhere without needing to visit a branch, provides secure login with credentials or biometric authentication, and lets users receive instant confirmation with estimated delivery time. Additionally, it enables easy tracking of the request status directly within the app."
+    ]
+  }
+]

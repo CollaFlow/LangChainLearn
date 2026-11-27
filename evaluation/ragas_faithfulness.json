@@ -1,0 +1,18 @@
+[
+  {
+    "strategy": "recursive",
+    "faithfulness": 1.0
+  },
+  {
+    "strategy": "markdown",
+    "faithfulness": 1.0
+  },
+  {
+    "strategy": "recursive",
+    "faithfulness": 1.0
+  },
+  {
+    "strategy": "markdown",
+    "faithfulness": 1.0
+  }
+]

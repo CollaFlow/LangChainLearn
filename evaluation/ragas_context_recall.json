@@ -1,0 +1,18 @@
+[
+  {
+    "strategy": "recursive",
+    "context_recall": 0.0
+  },
+  {
+    "strategy": "markdown",
+    "context_recall": 1.0
+  },
+  {
+    "strategy": "recursive",
+    "context_recall": 1.0
+  },
+  {
+    "strategy": "markdown",
+    "context_recall": 1.0
+  }
+]
